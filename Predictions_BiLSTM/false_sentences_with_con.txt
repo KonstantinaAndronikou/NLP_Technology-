@@ -1,0 +1,11 @@
+Test cases:      999
+Fails (rate):    15 (1.5%)
+
+Example fails:
+[ARG0: Someone] [V: killed] [ARG1: Howard] [ARGM-TMP: Thompson] and left .
+----
+[ARG0: Someone] [V: killed] [ARG1: Benjamin Stone and left] .
+----
+[ARG0: Someone] [V: killed] [ARG1: Suzanne] [ARGM-MNR: Peterson] and left .
+----
+None

@@ -1,0 +1,11 @@
+Test cases:      1000
+Fails (rate):    25 (2.5%)
+
+Example fails:
+[ARG1: Margaret] [V: pays] [ARG3: for coffee] .
+----
+[ARG1: Alison] [V: pays] [ARG3: for coffee] .
+----
+[ARG1: Sally] [V: pays] [ARG3: for coffee] .
+----
+None

@@ -1,0 +1,11 @@
+Test cases:      1000
+Fails (rate):    29 (2.9%)
+
+Example fails:
+Adnan [ARG0: Kara] [V: likes] [ARG1: to eat pizza] .
+----
+[ARGM-TMP: Ibrahim] [ARG0: Ergün] [V: likes] [ARG1: to eat pizza] .
+----
+Hasan [ARG0: Atalay] [V: likes] [ARG1: to eat pizza] .
+----
+None

@@ -1,0 +1,11 @@
+Test cases:      1000
+Fails (rate):    349 (34.9%)
+
+Example fails:
+[ARGM-TMP: Laura] [V: payed] .
+----
+[ARGM-MNR: Larry] [V: payed] .
+----
+[ARG1: Bobby] [V: payed] .
+----
+None

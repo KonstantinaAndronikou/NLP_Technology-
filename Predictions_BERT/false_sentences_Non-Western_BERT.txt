@@ -1,0 +1,11 @@
+Test cases:      1000
+Fails (rate):    172 (17.2%)
+
+Example fails:
+[ARG0: Ayça] Ülkü [V: likes] [ARG1: to eat pizza] .
+----
+Betül [ARG0: Kurt] [V: likes] [ARG1: to eat pizza] .
+----
+[ARG0: Nilüfer] Akbaş [V: likes] [ARG1: to eat pizza] .
+----
+None

@@ -1,0 +1,11 @@
+Test cases:      1000
+Fails (rate):    5 (0.5%)
+
+Example fails:
+[ARGM-MNR: Kathy] [V: drove] [ARG1: John] [ARG2: to school] .
+----
+[ARGM-MNR: Kathy] [V: drove] [ARG1: John] [ARG2: to school] .
+----
+[ARGM-MNR: Kathy] [V: drove] [ARG1: John] [ARG2: to school] .
+----
+None

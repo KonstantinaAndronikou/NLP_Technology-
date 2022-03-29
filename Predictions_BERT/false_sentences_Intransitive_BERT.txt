@@ -1,0 +1,11 @@
+Test cases:      1000
+Fails (rate):    287 (28.7%)
+
+Example fails:
+[ARG1: Patricia] [V: pays]
+----
+[ARG1: Ann] [V: pays]
+----
+[ARG1: Nancy] [V: pays]
+----
+None

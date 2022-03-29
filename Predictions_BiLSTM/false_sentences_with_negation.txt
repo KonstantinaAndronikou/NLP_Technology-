@@ -1,0 +1,11 @@
+Test cases:      1000
+Fails (rate):    4 (0.4%)
+
+Example fails:
+[ARGM-DIS: Andrea] [V: has] [ARG1: no pets] .
+----
+[ARGM-DIS: Andrea] [V: has] [ARG1: no pets] .
+----
+[ARGM-DIS: Andrea] [V: has] [ARG1: no pets] .
+----
+None

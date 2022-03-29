@@ -1,0 +1,11 @@
+Test cases:      1000
+Fails (rate):    514 (51.4%)
+
+Example fails:
+Jessica [V: payed] [ARG1: for coffee] .
+----
+[ARGM-MNR: Ian] [V: payed] [ARG1: for coffee] .
+----
+[ARGM-MNR: Lucy] [V: payed] [ARG1: for coffee] .
+----
+None

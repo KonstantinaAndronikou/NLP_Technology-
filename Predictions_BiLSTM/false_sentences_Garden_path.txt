@@ -1,0 +1,11 @@
+Test cases:      1000
+Fails (rate):    1000 (100.0%)
+
+Example fails:
+[ARG0: Mary] [V: gave] [ARG2: Alice] [ARG1: the dog bit a Band - Aid] .
+----
+[ARG0: Mary] [V: gave] [ARG2: Steve] [ARG1: the dog bit a Band - Aid] .
+----
+[ARG0: Mary] [V: gave] [ARG2: Paul] [ARG1: the dog bit a Band - Aid] .
+----
+None

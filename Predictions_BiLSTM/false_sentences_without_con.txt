@@ -1,0 +1,11 @@
+Test cases:      1000
+Fails (rate):    4 (0.4%)
+
+Example fails:
+[ARG0: Someone] [V: killed] [ARG1: Amy] [ARGM-TMP: Stone] .
+----
+[ARG0: Someone] [V: killed] [ARG1: Catherine] [ARGM-TMP: Stone] .
+----
+[ARG0: Someone] [V: killed] [ARG1: Amy] [ARGM-TMP: Henderson] .
+----
+None

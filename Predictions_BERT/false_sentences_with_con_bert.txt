@@ -1,0 +1,11 @@
+Test cases:      1000
+Fails (rate):    5 (0.5%)
+
+Example fails:
+[ARG0: Someone] [V: killed] [ARG1: Bill] Rose and left .
+----
+[ARG0: Someone] [V: killed] [ARG1: Evelyn] Rose and left .
+----
+[ARG0: Someone] [V: killed] [ARG1: Melissa] Rose and left .
+----
+None

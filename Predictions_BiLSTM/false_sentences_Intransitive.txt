@@ -1,0 +1,11 @@
+Test cases:      1000
+Fails (rate):    12 (1.2%)
+
+Example fails:
+[ARG1: Alexandra] [V: pays]
+----
+[ARG1: Alexandra] [V: pays]
+----
+[ARG1: Alexandra] [V: pays]
+----
+None

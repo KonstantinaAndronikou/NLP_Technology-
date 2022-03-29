@@ -1,0 +1,11 @@
+Test cases:      994
+Fails (rate):    994 (100.0%)
+
+Example fails:
+[ARG0: Emily] [V: saw] [ARG1: three dogs and Alexandra two] .
+----
+[ARG0: Sarah] [V: saw] [ARG1: three dogs] and Benjamin two .
+----
+[ARG0: Anthony] [V: saw] [ARG1: three dogs and John two] .
+----
+None

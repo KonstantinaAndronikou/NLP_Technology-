@@ -1,0 +1,11 @@
+Test cases:      1000
+Fails (rate):    30 (3.0%)
+
+Example fails:
+[ARG1: Rose] [V: payed] .
+----
+[ARG1: Bill] [V: payed] .
+----
+[ARG1: Pamela] [V: payed] .
+----
+None
