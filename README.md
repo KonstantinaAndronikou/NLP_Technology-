@@ -48,4 +48,22 @@ The repository folder [**NLP_Technology**](https://github.com/KonstantinaAndroni
 * [**Predictions_BERT**](https://github.com/KonstantinaAndronikou/tree/main/Predictions_BERT)
 * [**Predictions_BiLSTM**](https://github.com/KonstantinaAndronikou/tree/main/Predictions_BiLSTM)
 
+### CODE
+
+All Notebooks used to generate the datasets as well as evaluate the tasks are the following: 
+*These notebooks are generated for both models*
+## Capabilities 
+* `Gardern Path.ipynb` - Implementing and testing a Garden Path dataset 
+* `Predicate Ellipsis.ipynb` - Implementing and testing a Predicate Eliipsis dataset 
+* `Transitive_Intransitive.ipynb` -Implementing and testing Transitive and Intransitive datasets 
+* `Voice.ipynb` -Implementing and testing Passive and active datasets
+* `With_Conjunction.ipynb` -Implementing and testing a dataset with conjunction 
+* `Without_Conjunction.ipynb` -Implementing and testing a dataset without conjuction  
+
+## Robustness - Fairness Tests
+* `Negation.ipynb` - Testing the effect of negation 
+* `Western Vs Non-Western.ipynb` - Testing the effect of Western and Non-Western names
+
+
+
 
