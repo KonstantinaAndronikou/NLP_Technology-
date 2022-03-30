@@ -25,18 +25,18 @@ The challenging sets generated for this task are the following:
 
 These dataset were generated for both BiLSTM and Bert:
 
-BiLSTM: [**Dataset_BiLSTM**](https://github.com/KonstantinaAndronikou/tree/main/Dataset_BiLSTM) 
+BiLSTM: [**Dataset_BiLSTM**](https://github.com/KonstantinaAndronikou/NLP_Technology-/main/Dataset_BiLSTM) 
 
-BERT: [**Dataset_BERT**](https://github.com/KonstantinaAndronikou/tree/main/Dataset_BERT) 
+BERT: [**Dataset_BERT**](https://github.com/KonstantinaAndronikou/NLP_Technology-/main/Dataset_BERT) 
 
 ### FOLDERS 
 
 The repository folder [**NLP_Technology**](https://github.com/KonstantinaAndronikou/NLP_Technology-) consists of the following folders:
 ## TESTS
-* [**Challenging_Tests_BERT**](https://github.com/KonstantinaAndronikou/tree/main/Challenging_Tests_BERT)
-* [**Challenging_Tests_BiLSTM**](https://github.com/KonstantinaAndronikou/tree/main/Challenging_Tests_BiLSTM)
-* [**Robustness_Tests_BERT**](https://github.com/KonstantinaAndronikou/tree/main/Robustness_Tests_BERT)
-* [**Robustness_Tests_BiLSTM**](https://github.com/KonstantinaAndronikou/tree/main/Robustness_Tests_BiLSTM)
+* [**Challenging_Tests_BERT**](https://github.com/KonstantinaAndronikou/NLP_Technology-/tree/main/Challenging_Tests_BERT).
+* [**Challenging_Tests_BiLSTM**](https://github.com/KonstantinaAndronikou/tree/main/Challenging_Tests_BiLSTM).
+* [**Robustness_Tests_BERT**](https://github.com/KonstantinaAndronikou/tree/main/Robustness_Tests_BERT).
+* [**Robustness_Tests_BiLSTM**](https://github.com/KonstantinaAndronikou/tree/main/Robustness_Tests_BiLSTM).
 ## DATA
 * [**Dataset_BERT**](https://github.com/KonstantinaAndronikou/tree/main/Dataset_BERT) 
 * [**Dataset_BiLSTM**](https://github.com/KonstantinaAndronikou/tree/main/Dataset_BiLSTM)
@@ -65,4 +65,4 @@ All Notebooks used to generate the datasets as well as evaluate the tasks are th
 
 
 ### Requirements
-The requirements to run this study can be found in [**requirements**](https://github.com/KonstantinaAndronikou/tree/main/requirements.txt)
+The requirements to run this study can be found in [**Requirements**](https://github.com/KonstantinaAndronikou/tree/main/Requirements.txt).
