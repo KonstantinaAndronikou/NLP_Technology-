@@ -38,8 +38,8 @@ The repository folder [**NLP_Technology**](https://github.com/KonstantinaAndroni
 * [**Robustness_Tests_BERT**](https://github.com/KonstantinaAndronikou/NLP_Technology-/tree/main/Robustness_Tests_BERT).
 * [**Robustness_Tests_BiLSTM**](https://github.com/KonstantinaAndronikou/NLP_Technology-/tree/main/Robustness_Tests_BiLSTM).
 ## DATA
-* [**Dataset_BERT**](https://github.com/KonstantinaAndronikou/tree/main/Dataset_BERT) 
-* [**Dataset_BiLSTM**](https://github.com/KonstantinaAndronikou/tree/main/Dataset_BiLSTM)
+* [**Dataset_BERT**](https://github.com/KonstantinaAndronikou/NLP_Technology-/tree/main/Dataset_BERT) 
+* [**Dataset_BiLSTM**](https://github.com/KonstantinaAndronikou/NLP_Technology-/tree/main/Dataset_BiLSTM)
 ## RESULTS
 * [**Output_BERT**](https://github.com/KonstantinaAndronikou/NLP_Technology-/tree/main/Output_BERT)
 * [**Output_BiLSTM**](https://github.com/KonstantinaAndronikou/NLP_Technology-/tree/main/Output_BiLSTM)
