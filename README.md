@@ -64,4 +64,5 @@ All Notebooks used to generate the datasets as well as evaluate the tasks are th
 
 
 
-
+### Requirements
+The requirements to run this study can be found in [**requirements**](https://github.com/KonstantinaAndronikou/tree/main/requirements.txt)
